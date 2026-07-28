@@ -1,32 +1,59 @@
 # Hi, I'm Nandhagopal A 👋
 
-I'm an Artificial Intelligence and Data Science student with a strong interest in AI, Machine Learning, and Python development. I enjoy building practical projects, learning new technologies, and improving my problem-solving skills.
+I'm an Artificial Intelligence and Data Science student passionate about AI, Machine Learning, Python, and building real-world applications. I enjoy learning new technologies, solving problems, and creating projects that make an impact.
 
-## 💻 Skills
+## 🚀 About Me
 
-* Python
-* Java
-* SQL
-* HTML, CSS, JavaScript
-* Machine Learning
-* FastAPI
-* Git & GitHub
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 💻 Passionate about AI, Machine Learning, and Python
+- 🌱 Currently learning LLMs, Generative AI, and RAG
+- 🚀 Building AI-powered applications and web projects
+- 🎯 Aspiring AI Engineer
 
-## 🚀 Currently Learning
+## 💻 Tech Stack
 
-* Large Language Models (LLMs)
-* Generative AI
-* Retrieval-Augmented Generation (RAG)
-* Deep Learning
+**Languages**
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
 
-## 📂 Projects
+**Frameworks & Tools**
+- FastAPI
+- Flask
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
-* AI Video Generator
-* RAG-Based PDF Chatbot
-* MediScan – AI Healthcare Assistant
+**AI & Machine Learning**
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- PyTorch
 
-## 🎯 Goal
+## 📂 Featured Projects
 
-To become a skilled AI Engineer by building impactful projects and continuously learning new technologies.
+- 🩺 **MediScan** – AI-powered healthcare assistant
+- 📄 **RAG PDF Chatbot** – Chat with PDF documents using AI
+- 🎬 **AI Video Generator** – Generate videos from text prompts
 
-Thanks for visiting my profile!
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning
+- Generative AI
+- AI Agents
+
+## 📫 Connect with Me
+
+[![Gmail](nandhajaswanth2006gmail.com)
+[![Instagram](nandha_anandan)
+---
+
+> *"Keep learning. Keep building. Keep improving."* 🚀
