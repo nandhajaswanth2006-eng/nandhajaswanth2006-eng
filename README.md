@@ -52,8 +52,12 @@ I'm an Artificial Intelligence and Data Science student passionate about AI, Mac
 
 ## 📫 Connect with Me
 
-[![Gmail](nandhajaswanth2006gmail.com)
-[![Instagram](nandha_anandan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhajaswanth2006@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandha_anandan)
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nandha_anandan)
+
 ---
 
 > *"Keep learning. Keep building. Keep improving."* 🚀
